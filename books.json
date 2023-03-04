@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Harry Potter",
+        "author": "J.k. Rowling",
+        "genre" : "Fantasia",
+        "pages" : 300
+    },{
+        "title": "Martin Fierro",
+        "author": "Jose Hernandez",
+        "genre" : "Tradicionalista",
+        "pages" : 400
+    },{
+        "title": "Señor de los anillos",
+        "author": "J. RR Tolkien",
+        "genre" : "Fantasia",
+        "pages" : 500
+    },{
+        "title": "Carrie",
+        "author": "Stephen King",
+        "genre" : "Terror",
+        "pages" : 600
+    },{
+        "title": "Superman",
+        "author": "Stephen King",
+        "genre" : "Cualquiera",
+        "pages" : 550
+    },{
+        "title": "Prueba",
+        "author": "Stephen King",
+        "genre" : "Terror",
+        "pages" : 600
+    }
+    ]
